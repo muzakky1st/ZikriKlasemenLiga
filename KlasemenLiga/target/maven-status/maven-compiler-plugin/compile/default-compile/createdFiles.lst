@@ -1,0 +1,11 @@
+com\KlasemenLiga\KlasemenLiga\Controller\LigaController.class
+com\KlasemenLiga\KlasemenLiga\Repository\RepoTim.class
+com\KlasemenLiga\KlasemenLiga\Entity\EntityTim.class
+com\KlasemenLiga\KlasemenLiga\Entity\EntityKlasemen.class
+com\KlasemenLiga\KlasemenLiga\Repository\RepoKlasemen.class
+com\KlasemenLiga\KlasemenLiga\Service\ServiceKlasemenLiga.class
+com\KlasemenLiga\KlasemenLiga\DTO\ResultDTO.class
+com\KlasemenLiga\KlasemenLiga\KlasemenLigaApplication.class
+com\KlasemenLiga\KlasemenLiga\Entity\EntityStatistikData.class
+com\KlasemenLiga\KlasemenLiga\Repository\RepoStatistikData.class
+com\KlasemenLiga\KlasemenLiga\DTO\Statistics.class
